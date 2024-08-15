@@ -6,6 +6,12 @@ This projects follow the tutorial from "Phaser by Example" to build a game using
 
 The tutorial used for this project is sourced from "Phaser by Example" PDF Guide, providing step-by-step instructions and code snippets to help beginners understand Phaser game development.
 
+## Screenshots
+
+![Screenshot 1](public/ss1.png)
+
+![Screenshot 2](public/ss2.png)
+
 ## Getting Started
 
 To run the game locally, follow these steps:
