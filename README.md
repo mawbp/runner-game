@@ -30,4 +30,5 @@ To run the game locally, follow these steps:
    npm run dev
    ```
 By default your local development server runs on `http://localhost:8080`.
+
 Enjoy the Game :) 
