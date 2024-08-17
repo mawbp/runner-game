@@ -1,6 +1,6 @@
 # Overview
 ---
-This projects follow the tutorial from "Phaser by Example" to build a game using the Phaser Frameworok. The tutorial covers essential aspects of game development with Phaser, including setup, game mechanics, sprites, animations, and more.
+This projects follow the tutorial from "Phaser by Example" to build a game using the Phaser Framework. The tutorial covers essential aspects of game development with Phaser, including setup, game mechanics, sprites, animations, and more.
 
 ## Tutorial Source
 
